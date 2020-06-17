@@ -1,0 +1,21 @@
+
+D
+src/sample/Main.java,a\d\ad8e8bd4ff8f02a914e3d9ca1bcc32dfc8c503a9
+U
+%src/sample/controller/Controller.java,c\3\c317f237c1c87df7461a590f6eae1ebca70bee19
+R
+"src/sample/view/TabuleiroGrid.java,6\0\606feba37fb07ff67032d2a02df66666b783324e
+U
+%src/sample/model/ResultadoEvento.java,d\8\d88fa08570d5c496808c5c761dc84c2c1dd6e238
+K
+src/sample/model/Campo.java,c\7\c75de8d8e5dd3ab90eb3441d87d45dfcc0db31e1
+O
+src/sample/model/Tabuleiro.java,4\9\496f5681750e624e799a233fb7123c68b0779db6
+Q
+!src/sample/model/CampoStatus.java,e\1\e11adfe4a7f664ba371338d59d8b134a4f8a6b6f
+T
+$src/sample/view/CampoObservador.java,8\8\88dc1a33ff5ec2e7c3dec90312c6da3bc166920b
+O
+src/sample/view/BotaoCampo.java,1\7\1712033ee727d2b8adcad0f2ab9072ddc9c1791f
+J
+src/sample/view/botao.fxml,d\7\d759abd1cbfdf289d6208dbf6e25c670cf3f124a
